@@ -9,7 +9,7 @@ import keyboard
 import subprocess
 import random
 
-
+#test
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
