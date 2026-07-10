@@ -1,0 +1,107 @@
+{
+    "total_records": 3577,
+    "A": {
+        "stats": {
+            "count": 285,
+            "next_higher": 258,
+            "next_lower": 0,
+            "equal": 26
+        }
+    },
+    "2": {
+        "stats": {
+            "count": 207,
+            "next_higher": 175,
+            "next_lower": 17,
+            "equal": 15
+        }
+    },
+    "3": {
+        "stats": {
+            "count": 290,
+            "next_higher": 225,
+            "next_lower": 40,
+            "equal": 25
+        }
+    },
+    "4": {
+        "stats": {
+            "count": 254,
+            "next_higher": 170,
+            "next_lower": 62,
+            "equal": 22
+        }
+    },
+    "5": {
+        "stats": {
+            "count": 188,
+            "next_higher": 124,
+            "next_lower": 49,
+            "equal": 14
+        }
+    },
+    "6": {
+        "stats": {
+            "count": 290,
+            "next_higher": 188,
+            "next_lower": 82,
+            "equal": 18
+        }
+    },
+    "7": {
+        "stats": {
+            "count": 301,
+            "next_higher": 132,
+            "next_lower": 143,
+            "equal": 25
+        }
+    },
+    "8": {
+        "stats": {
+            "count": 318,
+            "next_higher": 119,
+            "next_lower": 161,
+            "equal": 38
+        }
+    },
+    "9": {
+        "stats": {
+            "count": 300,
+            "next_higher": 98,
+            "next_lower": 176,
+            "equal": 24
+        }
+    },
+    "10": {
+        "stats": {
+            "count": 277,
+            "next_higher": 63,
+            "next_lower": 187,
+            "equal": 27
+        }
+    },
+    "J": {
+        "stats": {
+            "count": 278,
+            "next_higher": 42,
+            "next_lower": 212,
+            "equal": 22
+        }
+    },
+    "Q": {
+        "stats": {
+            "count": 304,
+            "next_higher": 25,
+            "next_lower": 259,
+            "equal": 19
+        }
+    },
+    "K": {
+        "stats": {
+            "count": 285,
+            "next_higher": 0,
+            "next_lower": 261,
+            "equal": 24
+        }
+    }
+}
